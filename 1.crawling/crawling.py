@@ -108,7 +108,7 @@ for abc in range(len(roc)):
     
     f.close()
 
-    time.sleep(2) 
+    sleep(2) 
 
 
 
