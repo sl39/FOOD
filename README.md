@@ -30,9 +30,11 @@
 
 3. 음식점 카테고리와 메뉴 가져오기
 
-4. 데이터 전처리 후 AWS RDS 및 AWS DynamoDB에 데이터저장 - 1 주
+4. 모델에 관련해서 공부 -2주
 
-5. raw 데이터와 음식점 메타데이터를 AWS S3에 저장하여 DataLake 구현 - 3주
+5. 데이터 전처리 후 AWS RDS 및 AWS DynamoDB에 데이터저장 - 1 주
+
+6. raw 데이터와 음식점 메타데이터를 AWS S3에 저장하여 DataLake 구현 - 3주
 - Athena를 사용해서 쿼리 수행하고 유사도 결과를 별로로 RDS에 저장
 
 - 빅데이터 플랫폼인 EMR 클러스터를 구성하여 S3에 저장된 데이터를 Hadoop 및 Spark로 분석, Zeppelin에서 시각화
